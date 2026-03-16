@@ -1,2 +1,2 @@
 # Supply
-414151
+Total token amount
